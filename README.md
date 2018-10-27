@@ -5,7 +5,7 @@ i've been using this model which is free.
 
 https://free3d.com/3d-model/wraith-raider-starship-22193.html
 
-but it can't be uploaded or distributed without concent
+but it can't be uploaded or distributed without consent
 
 So
 
