@@ -9,7 +9,7 @@ but it can't be uploaded or distributed without consent
 
 So
 
-1.- Uncompress SDK/SDK.zip into the SDK folder and have fun
+1.- Uncompress SDK/SDK.zip into the SDK folder
 
 2.- in the Release and Debug folder create Models and Models/Maps folders
 
@@ -21,4 +21,4 @@ So
 
 6.- Open SpaceshipDemo.sln, set the target as x86, compile and run
 
-Regards
+Have Fun! Regards
