@@ -1,4 +1,4 @@
-# 2018-Game-Jam-USEK-Demo
+# USEK-Game-Jam-Demo-2018 
 A demo made for the game jam of USEK in 2018
 
 i've been using this model which is free.
